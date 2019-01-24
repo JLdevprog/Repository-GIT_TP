@@ -1,2 +1,3 @@
 # Repository-GIT_TP
-TP OpenClassRoom GIT
+TP OpenClassRoom TP
+J.L.DevProg
